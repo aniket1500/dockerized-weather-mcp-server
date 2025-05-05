@@ -1,0 +1,15 @@
+{
+    "mcpServers": {
+      "weather": {
+      "command": "/Users/aniketsalunkhe/.local/bin/uv",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "/Users/aniketsalunkhe/Documents/weather-mcp-server/server/weather.py"
+      ]
+    }
+    }
+  }
