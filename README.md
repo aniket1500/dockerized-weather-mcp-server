@@ -27,4 +27,5 @@
 
 ```bash
 uv venv
-uv pip install -r mcp-server/requirements.txt
+uv add "mcp[cli]" 
+uv run mcp dev server/weather.py
