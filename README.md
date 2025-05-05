@@ -23,7 +23,7 @@
 
 ---
 
-### 📦 Install Dependencies
+### 📦 Install Dependencies & Test your server
 
 ```bash
 uv venv
